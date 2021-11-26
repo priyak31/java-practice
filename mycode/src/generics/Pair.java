@@ -50,3 +50,8 @@ private void doesNotWork(Object x) {
 // T temp = (T) x; // NO, same reason (like (Object) cast)
 }
 }
+
+
+
+//output
+//string there
