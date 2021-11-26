@@ -14,3 +14,13 @@ public class ListExample {
 		}		
 	}
 }
+
+//output
+//Given array 3
+//Given array 6
+//Given array 7
+//Given array 6
+
+//list contain duplicate values
+//maintain insertion order
+//random accsess
