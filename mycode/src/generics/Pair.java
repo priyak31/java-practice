@@ -55,3 +55,4 @@ private void doesNotWork(Object x) {
 
 //output
 //string there
+// generics is single method declarartion or single class declaration with type parameter denoted by angular bracket<>.
