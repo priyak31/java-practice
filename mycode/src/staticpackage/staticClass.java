@@ -18,3 +18,10 @@ public class staticClass {
 	}
 
 }
+
+
+//output
+//count is1
+//count is2
+//count is3
+
