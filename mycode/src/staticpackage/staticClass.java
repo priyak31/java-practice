@@ -25,3 +25,8 @@ public class staticClass {
 //count is2
 //count is3
 
+// Static mainly used for memory management means it is constant variable or method that is same for every instance of class.
+// it is not access by instance of class.
+//It saves memory.
+e.g college name,company name for employee etc
+
