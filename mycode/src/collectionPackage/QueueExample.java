@@ -38,4 +38,5 @@ public class QueueExample {
 //-queue cannot contain null values
 //not maintain insertion order
 //not contain duplicate values
+//some implementations, such as LinkedList, do not prohibit insertion of null.
 
