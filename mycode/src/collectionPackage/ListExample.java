@@ -24,3 +24,4 @@ public class ListExample {
 //list contain duplicate values
 //maintain insertion order
 //random accsess
+//If you want to access from list, you need to write list.get(0);
