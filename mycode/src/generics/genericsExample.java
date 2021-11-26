@@ -26,3 +26,14 @@ public class genericsExample {
 	}
 
 }
+
+//output
+
+//Array integerArray contains:
+//|1| |2| |3| |4| |5| 
+
+//Array doubleArray contains:
+//|1.1| |2.2| |3.3| |4.4| 
+
+//Array characterArray contains:
+//|H| |E| |L| |L| |O| 
