@@ -30,4 +30,12 @@ public class QueueExample {
 
 	
 
+//output
+//Head of the queue: 20
+//Poll():Returned Head of the queue: 20
+//peek():Head of the queue: 30
+//Final Queue:[30, 40, 50]
+//-queue cannot contain null values
+//not maintain insertion order
+//not contain duplicate values
 
