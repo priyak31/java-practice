@@ -35,8 +35,8 @@ public class QueueExample {
 //Poll():Returned Head of the queue: 20
 //peek():Head of the queue: 30
 //Final Queue:[30, 40, 50]
-//-queue cannot contain null values
-//not maintain insertion order
-//not contain duplicate values
-//some implementations, such as LinkedList, do not prohibit insertion of null.
+//Not maintain insertion order
+//Not contain duplicate values
+//queue cannot contain null values although some implementations, such as LinkedList, do not prohibit insertion of null.
+// In case of PriorityQueue it gives null pointer exception.
 
